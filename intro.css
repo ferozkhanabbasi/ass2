@@ -1,0 +1,28 @@
+body {
+    width: 60%;
+    margin: auto;
+    background-color: inherit;
+    font-size: 16px; 
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: #000;
+}
+
+h2{
+    color: blue;
+}
+
+#wrapper {
+    background-color: aliceblue;
+    text-align: center;
+    border: 1px solid black; 
+    margin-top: 40px;
+    margin-bottom: 40px;
+} 
+
+#content {
+    margin: 10x;
+}
+
+section {
+    margin: 100px
+}
